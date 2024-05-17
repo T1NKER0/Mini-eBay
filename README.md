@@ -8,3 +8,5 @@ The search results are listed with the product description (Name, department, an
 Once the user selects a product, the system presents a new activity with the complete product description including a bigger picture (web and mobile).
 Once the user wants to make a bid for a product, they must be logged in the system. They must enter the bid value, and the system shows the highest bid for the product (web).
 Every transaction performed on the mobile application is registered at the central database system (web and mobile).
+
+The system provides an administrator role with the ability to add, modify, and remove users, products, and departments.
