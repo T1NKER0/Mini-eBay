@@ -20,6 +20,6 @@
 * Every transaction performed on the mobile application is registered in the central database system (web and mobile).
  
 ### Project Architecture
-* nAn Android mobile application has been implemented for the Mini-eBay Web system. The project includes a backend containing Servlets, classes, and a central database. The mobile application communicates with the backend via HTTP (JSON).
+* An Android mobile application has been implemented for the Mini-eBay Web system. The project includes a backend containing Servlets, classes, and a central database. The mobile application communicates with the backend via HTTP (JSON).
 
 * The system provides an administrator role with the ability to add, modify, and remove users, products, and departments.
