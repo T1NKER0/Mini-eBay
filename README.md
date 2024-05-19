@@ -3,7 +3,7 @@
 ## Web / Android mobile application for the Mini-eBay system. This project includes a backend containing Servlets, classes, and a central database. The mobile application communicates with the backend via http (JSON).
 
 ### Usability
-User login is implemented for both web and mobile platforms.
+* User login is implemented for both web and mobile platforms.
 
 Products are classified by departments (e.g., Electronics, Computers, Books).
 
