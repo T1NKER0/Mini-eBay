@@ -1,7 +1,6 @@
 # Mini-eBay
 
-## Web / Android mobile application for the Mini-eBay system. This project includes a backend containing Servlets, classes, and a central database. The mobile application communicates with the backend via http (JSON).
-
+## Web / Android mobile application for the Mini-eBay system
 ### Usability
 * User login is implemented for both web and mobile platforms.
 
